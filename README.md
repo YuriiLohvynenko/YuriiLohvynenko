@@ -22,6 +22,9 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
   ![.Net](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 - Frameworks:
 
 
@@ -36,8 +39,8 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
      ![CI](https://img.shields.io/badge/CodeIgnighter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-   ![MFC](https://img.shields.io/badge/MFC-red?style=for-the-badge&logo=MFC&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
+<!--    ![MFC](https://img.shields.io/badge/MFC-red?style=for-the-badge&logo=MFC&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white) -->
 
 - Databases: 
 
