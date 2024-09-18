@@ -48,6 +48,7 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
    ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
    ![Kendo UI](https://img.shields.io/badge/Kendo_UI-870000?style=for-the-badge&logo=kendo-ui&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+   
    ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony
 <!--    ![MFC](https://img.shields.io/badge/MFC-red?style=for-the-badge&logo=MFC&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white) -->
