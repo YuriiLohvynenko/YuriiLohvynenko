@@ -50,6 +50,19 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
    ![Postgres](https://img.shields.io/badge/PostgresSql-4169E1?style=for-the-badge&logo=PostgresSql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
+- **Real-Time Communication**:
+
+   ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+- **Date & Time Formatting**:
+
+   ![Moment.js](https://img.shields.io/badge/Moment.js-000000?style=for-the-badge&logo=moment.js&logoColor=white)
+
+- **Data Visualization**:
+
+   ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+   ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 <!-- ## 📫 Contact
 Feel free to reach out to me at 💬[]💬. -->
