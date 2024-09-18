@@ -93,8 +93,7 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
 - **Design**:
 
    ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0000FF?style=for-the-badge)
-<!-- ## 📫 Contact
-Feel free to reach out to me at 💬[]💬. -->
+
 
 
 <!--
