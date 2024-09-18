@@ -39,6 +39,8 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
      ![CI](https://img.shields.io/badge/CodeIgnighter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <!--    ![MFC](https://img.shields.io/badge/MFC-red?style=for-the-badge&logo=MFC&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white) -->
 
